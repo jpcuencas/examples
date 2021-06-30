@@ -1,0 +1,7 @@
+//install client
+npm install -g @angular/cli
+// create new app
+ng new my_app --skip-install
+
+// run app
+ng serve

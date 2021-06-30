@@ -1,0 +1,1 @@
+tsc salida.ts --out output/salida.js -watch

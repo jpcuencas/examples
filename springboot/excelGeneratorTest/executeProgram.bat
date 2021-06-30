@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass=everis.cad.platform.excelgenerator.test.excelGeneratorTest.App --settings C:\dev\cad\SETTINGS\MAVEN\settings_EVERIS-CAD.xml
